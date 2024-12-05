@@ -26,10 +26,10 @@ nav {
     justify-content: space-between;
     display: flex;
     align-items: center;
-    height: 20%;
+    height: 20vh;
     width: 100%;
     
-    padding: 30px ;
+    padding: 0px 40px;
 }
 nav a {
     color:  #ffe4c4;
