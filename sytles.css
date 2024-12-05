@@ -1,22 +1,21 @@
-
 :root {
-    --primary-color : #ffe4c4;
-    --secondary-color :#1B0D03 ;
-
+  --primary-color: #ffe4c4;
+  --secondary-color: #1b0d03;
 }
 
 ::-webkit-scrollbar{
     display: none;
 }
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
-    list-style: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
 }
 
 body {
+
     background-color:var(--secondary-color);
     color: var(--primary-color) ;
 }
@@ -40,3 +39,4 @@ ul {
     align-items: center;
     gap: 30px;
 }
+
