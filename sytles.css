@@ -41,4 +41,7 @@ ul {
     align-items: center;
     gap: 30px;
 }
+.logo {
+    font-weight: bold;
+}
 
